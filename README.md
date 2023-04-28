@@ -1,6 +1,6 @@
 ## :wave: Hi! I'm Emre GÜN! I'm developing myself as Frontend Developer.
 
-## :computer_mouse: [My Personal Blog](https://gnemre.vercel.app)
+## :computer_mouse: [My Personal Blog](https://emregun.vercel.app)
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNjYTdkMDE0ZTMyZjAxZDY5YzYyNDUyMWQ5ODg4OTc0MDYyOTNkYiZjdD1z/f6hnhHkks8bk4jwjh3/giphy.gif"/>
 <h3 align="left">Connect with me:</h3>
