@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dilara Cetinberk</h1>
+<h1 align="center">Hi 👋, I'm Emre GÜN</h1>
 <h3 align="center">I'm developing myself as Frontend Developer.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNjYTdkMDE0ZTMyZjAxZDY5YzYyNDUyMWQ5ODg4OTc0MDYyOTNkYiZjdD1z/f6hnhHkks8bk4jwjh3/giphy.gif"/>
