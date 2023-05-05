@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emre GÜN</h1>
-<h3 align="center">I'm developing myself as Frontend Developer.</h3>
+<h3 align="center">With 11 years of experience in Graphic Design, I possess proficiency in Adobe Photoshop, Illustrator, Corel Draw, and Freehand. As an avid Front-End Developer, I am actively pursuing knowledge in Javascript, HTML5, CSS, TypeScript, React, jQery, Git, GitHUb, Angular, and JSON languages to stay ahead in the ever-evolving industry. My passion for fitness activities such as Kickboxing, Fitness, and Swimming, keeps me motivated and energized.
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNjYTdkMDE0ZTMyZjAxZDY5YzYyNDUyMWQ5ODg4OTc0MDYyOTNkYiZjdD1z/f6hnhHkks8bk4jwjh3/giphy.gif"/>
+
+11 yıllık Grafik Tasarım deneyimim ile Adobe Photoshop, Illustrator, Corel Draw ve Freehand programlarına hakimim. Hevesli bir Front-End Developer olarak, sürekli gelişen sektörde bir adım önde olmak için Javascript, HTML5, CSS, TypeScript, React, jQery, Git, GitHUb, Angular ve JSON dillerinde aktif olarak bilgi peşinde koşuyorum. Kickboks, Fitness ve Yüzme gibi fitness aktivitelerine olan tutkum beni motive ediyor ve enerji veriyor.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gnemre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gnemre" height="30" width="40" /></a>
